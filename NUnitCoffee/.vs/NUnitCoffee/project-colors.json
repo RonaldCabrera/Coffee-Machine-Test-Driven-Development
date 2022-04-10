@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "baaf606c-076e-4018-97b3-2bd46d05ef09": {
+      "ProjectGuid": "baaf606c-076e-4018-97b3-2bd46d05ef09",
+      "DisplayName": "NUnitCoffee",
+      "ColorIndex": 0
+    },
+    "ed4f80fb-4e24-4a45-8997-ba06682e9985": {
+      "ProjectGuid": "ed4f80fb-4e24-4a45-8997-ba06682e9985",
+      "DisplayName": "CoffeeMachine",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
