@@ -29,7 +29,7 @@ And there you go, run wild!
 
 ## Running the tests
 
-My perspective is pretty much based from Visual Studio Community as that's what I used to make this so, in this case, just alt click the NUnit Project (CoffeeMachine.Tests)
+My perspective is pretty much based from Visual Studio Community as that's what I used to make this so, in this case, just alt click the NUnit Project (CoffeeMachine.UnitTests)
 and then click on Run Tests.
 
 ## Built With
