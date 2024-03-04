@@ -1,0 +1,12 @@
+C:\Users\ronal\Documents\GitHub\Maquina-de-Cafe-TDD\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\Documents\GitHub\Maquina-de-Cafe-TDD\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.AssemblyInfoInputs.cache
+C:\Users\ronal\Documents\GitHub\Maquina-de-Cafe-TDD\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.AssemblyInfo.cs
+C:\Users\ronal\Documents\GitHub\Maquina-de-Cafe-TDD\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\ronal\Documents\GitHub\Maquina-de-Cafe-TDD\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.sourcelink.json
+C:\Users\ronal\Documents\GitHub\Maquina-de-Cafe-TDD\CoffeeMachine\bin\Debug\net8.0\CoffeeMachine.deps.json
+C:\Users\ronal\Documents\GitHub\Maquina-de-Cafe-TDD\CoffeeMachine\bin\Debug\net8.0\CoffeeMachine.dll
+C:\Users\ronal\Documents\GitHub\Maquina-de-Cafe-TDD\CoffeeMachine\bin\Debug\net8.0\CoffeeMachine.pdb
+C:\Users\ronal\Documents\GitHub\Maquina-de-Cafe-TDD\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.dll
+C:\Users\ronal\Documents\GitHub\Maquina-de-Cafe-TDD\CoffeeMachine\obj\Debug\net8.0\refint\CoffeeMachine.dll
+C:\Users\ronal\Documents\GitHub\Maquina-de-Cafe-TDD\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.pdb
+C:\Users\ronal\Documents\GitHub\Maquina-de-Cafe-TDD\CoffeeMachine\obj\Debug\net8.0\ref\CoffeeMachine.dll
